@@ -7,3 +7,6 @@ if hasTicket:
 		print("You may sit in General Section")
 else:
 	print("No Entry")
+
+for i in range(1,5):
+	print(i)
